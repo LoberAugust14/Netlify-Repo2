@@ -1,0 +1,29 @@
+body {
+background-color: blue;
+}
+h1 {
+			color: white;
+			font: serif;
+			text-align: left;
+}
+
+li  {
+
+	color: white;
+	font: monospace;
+	text-align: left;
+}
+
+h2 {
+
+	color: white;
+	font: fantasy;
+	text-align: left;
+}
+
+title {
+
+	color: white;
+	font: sans-serif;
+	text-align: center;
+}
