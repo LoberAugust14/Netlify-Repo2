@@ -11,7 +11,13 @@ li  {
 
 	color: white;
 	font: monospace;
-	text-align: left;
+	text-align: center;
+}
+
+a {
+	color: red;
+	font:fantasy;
+	text-align:left;
 }
 
 h2 {
